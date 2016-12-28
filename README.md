@@ -1,10 +1,5 @@
 # SundaeCoding
-SundaeCoding
 
-
-------------------
-
-
-##study 
-
-**Sang**
+Algorithm Study in KoreaTech
+------
+Mentor **Sang**
