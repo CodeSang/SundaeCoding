@@ -1,6 +1,6 @@
 # 별찍기 - 11
 
-[바로가기]"https://www.acmicpc.net/problem/2448"
+https://www.acmicpc.net/problem/2448
 
 
 ### 문제
