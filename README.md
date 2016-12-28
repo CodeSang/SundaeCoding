@@ -5,6 +5,6 @@ SundaeCoding
 ------------------
 
 
-##study 참여 인원
+##study 
 
-**지상엽**
+**Sang **
