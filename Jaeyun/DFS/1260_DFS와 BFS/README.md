@@ -1,6 +1,6 @@
-﻿# 유기농 배추
+﻿# DFS와 BFS
 
-https://www.acmicpc.net/problem/11403
+https://www.acmicpc.net/problem/1260
 
 
 ### 문제

@@ -1,6 +1,6 @@
-﻿# 유기농 배추
+﻿# 영역 구하기
 
-https://www.acmicpc.net/problem/2587
+https://www.acmicpc.net/problem/2583
 
 
 ### 문제

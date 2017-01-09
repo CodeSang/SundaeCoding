@@ -1,7 +1,6 @@
-﻿# 유기농 배추
+﻿# 단지번호 붙이기
 
-https://www.acmicpc.net/problem/1012
-
+https://www.acmicpc.net/problem/2667
 
 ### 문제
 
