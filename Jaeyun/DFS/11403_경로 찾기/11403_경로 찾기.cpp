@@ -39,7 +39,6 @@ void DFS(int v) {
 }
 
 int main() {
-
 	Input();
 
 	for (int i = 1; i <= N; i++) {

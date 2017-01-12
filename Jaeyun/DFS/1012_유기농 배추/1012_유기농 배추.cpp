@@ -5,6 +5,8 @@ using namespace std;
 
 int N, M, K;
 vector<vector<int>> node(50, vector<int>(50));
+vector<vector<bool>> visited(50, vector<bool>(50));
+int bug = 0;
 
 
 void DFS(int y, int x) {
@@ -34,6 +36,7 @@ int main() {
 		cnt = 0;
 
 		cin >> M >> N >> K;
+
 
 		while (K--) {
 			cin >> x >> y;

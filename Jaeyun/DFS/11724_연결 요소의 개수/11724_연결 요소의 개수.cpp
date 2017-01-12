@@ -3,9 +3,8 @@
 
 using namespace std;
 
-
 vector<vector<int>> node(1001, vector<int>(1001));
-vector<bool> visited(1001, true);
+vector<bool> visited(1001);
 int N, M;
 int connected;
 void Input() {
@@ -17,8 +16,7 @@ void Input() {
 		cin >> u >> v;
 		node[u].push_back(v);
 		node[v].push_back(u);
-		visited[u] = false;
-		visited[v] = false;
+
 	}
 }
 void DFS(int v) {
@@ -40,7 +38,7 @@ int main() {
 
 	cout << connected << endl;
 
-	getchar();
-	getchar();
+	
 	return 0;
 }
+
