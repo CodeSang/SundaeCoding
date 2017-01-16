@@ -21,3 +21,4 @@ https://www.acmicpc.net/problem/1010
 처음에는 그냥 순열 쓰면 되겟구만 햇는데, 팩토리얼 계산하다 보니 수가 너무 커져서 포기.
 
 규칙을 찾아냄.
+bridge[i][j] = bridge[i - 1][j - 1] + bridge[i][j - 1];
