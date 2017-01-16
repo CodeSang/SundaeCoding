@@ -1,0 +1,17 @@
+#include <iostream>
+
+using namespace std;
+
+long num[91] = { 0 };
+
+int main() {
+	int n;
+	cin >> n;
+	num[1] = 1;
+	num[2] = 1;
+	for (int i = 3; i < n+1; i++)
+	{
+		num[i] = num[i - 1] + num[i - 2];
+	}
+	cout << num[n];
+}
